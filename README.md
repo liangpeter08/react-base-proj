@@ -18,4 +18,5 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ```
 {
     "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe"
-}```
+}
+```
